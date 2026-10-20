@@ -1,3 +1,3 @@
 # Practice repo for git-init.
 
-this is created by Subhan
+This is created by Subhan.
